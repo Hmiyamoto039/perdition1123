@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.KaimonoList2" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:fontFamily">@font/usorei</item>
+        <item name="colorPrimary">@color/deffGrey</item>
+        <item name="buttonBarPositiveButtonStyle">@style/alertDialogPositiveStyle</item>
+        <item name="buttonBarNegativeButtonStyle">@style/alertDialogNegativeStyle</item>
+
+        <item name="android:actionBarTabStyle">@style/customActionBarTabStyle</item>
+
+    </style>
+
+    <style name="alertDialogPositiveStyle" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">@color/deffBlue</item>
+    </style>
+    <style name="alertDialogNegativeStyle" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">@color/deffBlue</item>
+    </style>
+
+    <style name="customActionBarTabStyle" parent="Widget.AppCompat.ActionBar.TabView">
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="Theme.KaimonoList2" parent="Base.Theme.KaimonoList2" />
+</resources>
