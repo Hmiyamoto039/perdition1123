@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#FF0261CF</color>
+
+    <!--Googleカレンダーカラーコード-->
+    <color name="Lavender">#7986CB</color>
+    <color name="Sage">#33B679</color>
+    <color name="Grape">#8E24AA</color>
+    <color name="Flamingo">#E67C73</color>
+    <color name="Banana">#F6BF26</color>
+    <color name="Tangerine">#F4511E</color>
+    <color name="Peacock">#039BE5</color>
+    <color name="Graphite">#616161</color>
+    <color name="Blueberry">#3F51B5</color>
+    <color name="Basil">#0B8043</color>
+    <color name="Tomato">#D50000</color>
+
+    <color name="default_color">#7986CB</color>
+
+    <!--GoogleTaskAPIのカラーコード-->
+    <color name="Cocoa">#795548</color>
+    <color name="Pumpkin">#EF6C00</color>
+    <color name="Mango">#F09300</color>
+    <color name="Eucalyptus">#009688</color>
+    <color name="Pistachio">#7CB342</color>
+    <color name="Avocado">#C0CA33</color>
+    <color name="Citron">#E4C441</color>
+    <color name="Cobalt">#4285F4</color>
+    <color name="Wisteria">#B39DDB</color>
+    <color name="Birch">#A79B8E</color>
+    <color name="Radicchio">#AD1457</color>
+    <color name="CherryBlossom">#D81B60</color>
+    <color name="Amethyst">#9E69AF</color>
+
+</resources>
